@@ -31,3 +31,4 @@
         android:gravity="center"
         android:id="@+id/registerButton"
         />
+    </LinearLayout>
